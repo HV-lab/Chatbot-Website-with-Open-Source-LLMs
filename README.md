@@ -3,6 +3,7 @@ IBMSkillsNetwork: GPXX04ESEN
 1. ChatBot By PyTorch using LLM
 2. ChatBot through Fask using LLM
 
+More Details : 
 ibmcloud ce project current
 theia@theiadocker-rohankinirk1:/home/project$ ibmcloud ce project current
 Getting the current project context...
